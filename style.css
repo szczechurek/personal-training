@@ -1,0 +1,21 @@
+* {
+  background-color: #222;
+  margin: 0;
+  padding: 0;
+}
+
+.name {
+  color: beige;
+  text-align: center;
+  font-size: 38px;
+  font-family: "Courier New", Courier, monospace;
+  font-style: italic;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+.navbar {
+  margin-left: 20px;
+  cursor: pointer;
+  color: bisque;
+  font-size: 20px;
+}
